@@ -1,5 +1,4 @@
-# JACKYLED BLE RGB LED Strip controller
-
+# Reverse Engineering a super cheap RGB LED strip controller (JACKYLED)
 v1.1
 
 2018
