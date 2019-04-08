@@ -49,7 +49,7 @@ The [JACKYLED LED Strip Light App Bluetooth Control](https://www.amazon.com/gp/p
 
 
 
-After skimming through the user reviews, the [app](http://www.hao2b.cn/69605) that controlls the RGB Strip is hot garbage:
+After skimming through the user reviews, the [app](http://www.hao2b.cn/69605) that controls the RGB Strip is hot garbage:
 
 
 ![](images/amazon-reviews-overview2.png)
@@ -371,7 +371,7 @@ The bare-bones replacement apk can be downloaded here:
 
 - [`com.karlquinsland.android.btleled.apk (df1e61946eef652e01a5c0a5c94dee85fd0091e3)`](com.karlquinsland.android.btleled.apk)
 
-And the source code that "drives" the APK can be found in [`ControllerDriverClass.java`](ControllerDriverClass.java)
+And the source code that "drives" the APK can be found in [`ControllerDriverClass.java`](/files/src/main/java/com/karlquinsland/android/btleled/ControllerDriverClass.java)
 
 
 
