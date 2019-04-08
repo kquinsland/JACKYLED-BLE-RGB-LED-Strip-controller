@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="array_macros">
+    <item>Static red,128</item>
+    <item>Static blue,129</item>
+    <item>Static green,130</item>
+    <item>Static cyan,131</item>
+    <item>Static yellow,132</item>
+    <item>Static purple,133</item>
+    <item>Static white,134</item>
+    <item>Tricolor jump,135</item>
+    <item>Seven-color jump,136</item>
+    <item>Tricolor gradient,137</item>
+    <item>Seven-color gradient,138</item>
+    <item>Red gradient,139</item>
+    <item>Green gradient,140</item>
+    <item>Blue gradient,141</item>
+    <item>Yellow gradient,142</item>
+    <item>Cyan gradient,143</item>
+    <item>Purple gradient,144</item>
+    <item>White gradient,145</item>
+    <item>Red-Green gradient,146</item>
+    <item>Red-Blue gradient,147</item>
+    <item>Green-Blue gradient,148</item>
+    <item>Seven-color flash,149</item>
+    <item>Red flash,150</item>
+    <item>Green flash,151</item>
+    <item>Blue flash,152</item>
+    <item>Yellow flash,153</item>
+    <item>Cyan flash,154</item>
+    <item>Purple flash,155</item>
+    <item>White flash,156</item>
+</string-array>
+
+    <string-array name="rgb_orders">
+        <item>RGB,1</item>
+        <item>RBG,2</item>
+        <item>GRB,3</item>
+        <item>GBR,4</item>
+        <item>BRG,5</item>
+        <item>BGR,6</item>
+    </string-array>
+
+</resources>
